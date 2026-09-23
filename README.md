@@ -76,3 +76,5 @@ df = pd.read_excel(
 df.head()
 df.groupby("City")["Revenue"].sum().sort_values(ascending=False)
 ```
+<img width="1316" height="581" alt="Indian Fmcg- Excel Dashboard" src="https://github.com/user-attachments/assets/c7809a64-8676-41d8-9fcc-db6f25da809f" />
+
